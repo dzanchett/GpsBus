@@ -1,0 +1,78 @@
+[
+	{
+		"idPonto" : 33,
+		"possuiConexao" : "T"
+	},
+	{
+		"idPonto" : 1016,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1066,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1075,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1077,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1082,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1085,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1089,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1092,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1095,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1096,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1100,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1104,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1117,
+		"possuiConexao" : "T"
+	},
+	{
+		"idPonto" : 1119,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1165,
+		"possuiConexao" : "F"
+	},
+	{
+		"idPonto" : 1680,
+		"possuiConexao" : "T"
+	},
+	{
+		"idPonto" : 1840,
+		"possuiConexao" : "T"
+	},
+	{
+		"idPonto" : 2099,
+		"possuiConexao" : "T"
+	}
+]

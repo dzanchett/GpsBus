@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GPSBus</string>
+    <string name="title_activity_tela_inicial_se_ha_internet">TelaInicialSeHaInternet</string>
+    <string name="askLocation">Onde você deseja ir?</string>
+    <string name="ir">Ir</string>
+    <string name="menu">Menu</string>
+    <string name="googleMapsKey">AIzaSyC6a4JBWv-nHdGJovCp2x2TuaJuau4XFUs</string>
+    <string name="buscaAvancada">Busca avançada:</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="percaDeConexao">Para acessar todas as funções do aplicativo é nescessário uma conexão ativa com a internet.\nVocê será redirecionado as funções disponíveis offline.</string>
+    <string name="primeiroUso">primeiroUso</string>
+    <string name="title_activity_tela_pesquisar_onibus">Pesquisar Ônibus:</string>
+    <string name="pesquisarPor">Pesquisar por:</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="title_activity_tela_exibir_resultados">Resultados da pesquisa:</string>
+    <string name="title_activity_tela_pesquisar_horario">Pesquisar Horários:</string>
+    <string name="title_activity_tela_pesquisar_itinerario">Pesquisar Itinerarios:</string>
+    <string name="title_activity_tela_mapa_pontos_onibus">Pontos de ônibus e terminais:</string>
+    <string name="sobreTexto">Aplicativo desenvolvido em um projeto de iniciação científica no CEFET/RJ - Campus Petrópolis, pelo aluno Diego H. B. Zanchett</string>
+    <string name="emailTitulo">E-mail:</string>
+    <string name="emailEndereco">diego.zanchett11@gmail.com</string>
+    <string name="title_activity_tela_sobre">Sobre:</string>
+    <string name="title_activity_tela_exibir_rota">Rota:</string>
+    <string name="title_activity_tela_lista_pontos_turisticos">Pontos Turísticos:</string>
+    <string name="title_activity_tela_descricao_pontos_turisticos">Pontos Turísticos:</string>
+    <string name="imagem">imagem</string>
+
+    <string-array name="pesquisarOnibusSelect">
+        <item>Terminal</item>
+        <item>Bairro</item>
+        <item>Rua</item>
+    </string-array>
+    <string-array name="pesquisarHorarioItinerarioSelect">
+        <item>nome do ônibus</item>
+        <item>número do ônibus</item>
+    </string-array>
+    <string name="title_activity_tela_exibir_rota_ape">Rotas a pé:</string>
+</resources>

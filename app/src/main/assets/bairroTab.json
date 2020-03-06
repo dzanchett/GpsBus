@@ -1,0 +1,178 @@
+[
+	{
+		"id" : 1,
+		"nome" : "Fazenda Inglesa"
+	},
+	{
+		"id" : 2,
+		"nome" : "Araras"
+	},
+	{
+		"id" : 3,
+		"nome" : "Bingen"
+	},
+	{
+		"id" : 4,
+		"nome" : "Duarte da Silveira"
+	},
+	{
+		"id" : 5,
+		"nome" : "Quitandinha"
+	},
+	{
+		"id" : 6,
+		"nome" : "Duques"
+	},
+	{
+		"id" : 7,
+		"nome" : "Independencia"
+	},
+	{
+		"id" : 8,
+		"nome" : "Mosela"
+	},
+	{
+		"id" : 9,
+		"nome" : "Castrioto"
+	},
+	{
+		"id" : 10,
+		"nome" : "Quarteirao Ingelheim"
+	},
+	{
+		"id" : 11,
+		"nome" : "Coronel Veiga"
+	},
+	{
+		"id" : 12,
+		"nome" : "Vila Militar"
+	},
+	{
+		"id" : 13,
+		"nome" : "Simeria"
+	},
+	{
+		"id" : 14,
+		"nome" : "Valparaiso"
+	},
+	{
+		"id" : 15,
+		"nome" : "Sao Sebastiao"
+	},
+	{
+		"id" : 16,
+		"nome" : "Secretario Rio"
+	},
+	{
+		"id" : 17,
+		"nome" : "Retiro"
+	},
+	{
+		"id" : 18,
+		"nome" : "Castelanea"
+	},
+	{
+		"id" : 19,
+		"nome" : "Centro"
+	},
+	{
+		"id" : 20,
+		"nome" : "Duchas"
+	},
+	{
+		"id" : 21,
+		"nome" : "Quarteirao Brasileiro"
+	},
+	{
+		"id" : 22,
+		"nome" : "Alto da Serra"
+	},
+	{
+		"id" : 23,
+		"nome" : "Meio da Serra"
+	},
+	{
+		"id" : 24,
+		"nome" : "Chacara da Flora"
+	},
+	{
+		"id" : 25,
+		"nome" : "Sertao do Carangola"
+	},
+	{
+		"id" : 26,
+		"nome" : "Carangola"
+	},
+	{
+		"id" : 27,
+		"nome" : "Morin"
+	},
+	{
+		"id" : 28,
+		"nome" : "Estrada da Saudade"
+	},
+	{
+		"id" : 29,
+		"nome" : "Floresta"
+	},
+	{
+		"id" : 30,
+		"nome" : "Correas"
+	},
+	{
+		"id" : 31,
+		"nome" : "Caxambu"
+	},
+	{
+		"id" : 32,
+		"nome" : "Provisoria"
+	},
+	{
+		"id" : 33,
+		"nome" : "Quisssma"
+	},
+	{
+		"id" : 34,
+		"nome" : "Cascatinha"
+	},
+	{
+		"id" : 35,
+		"nome" : "Pedro do Rio"
+	},
+	{
+		"id" : 36,
+		"nome" : "Nogueira"
+	},
+	{
+		"id" : 37,
+		"nome" : "Roseiral"
+	},
+	{
+		"id" : 38,
+		"nome" : "Itamarati"
+	},
+	{
+		"id" : 39,
+		"nome" : "Itaipava"
+	},
+	{
+		"id" : 40,
+		"nome" : "Fazenda Inglesa"
+	},
+	{
+		"id" : 41,
+		"nome" : "Samambaia"
+	},
+	{
+		"id" : 42,
+		"nome" : "Bairro da Gloria"
+	},
+	{
+		"id" : 43,
+		"nome" : "Posse"
+	},
+	{
+		"id" : 44,
+		"nome" : "Itaipava"
+	}
+]

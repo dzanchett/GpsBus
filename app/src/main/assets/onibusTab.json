@@ -1,0 +1,3914 @@
+[
+	{
+		"numero" : 10,
+		"nome" : "Rodoviária Bingen - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(Executivo)",
+		"idItinerario" : 202
+	},
+	{
+		"numero" : 10,
+		"nome" : "Rodoviária Bingen - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(Executivo)",
+		"idItinerario" : 436
+	},
+	{
+		"numero" : 11,
+		"nome" : "Quitandinha - Terminal Bingen ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(Executivo) (Circular)",
+		"idItinerario" : 203
+	},
+	{
+		"numero" : 11,
+		"nome" : "Quitandinha - Terminal Bingen ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(Executivo) (Circular)",
+		"idItinerario" : 437
+	},
+	{
+		"numero" : 21,
+		"nome" : "R. Dr. Thouzet - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 9
+	},
+	{
+		"numero" : 21,
+		"nome" : "R. Dr. Thouzet - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 246
+	},
+	{
+		"numero" : 22,
+		"nome" : "Rua São Sebastião - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 35
+	},
+	{
+		"numero" : 22,
+		"nome" : "Rua São Sebastião - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 272
+	},
+	{
+		"numero" : 23,
+		"nome" : "Estrada do Paraíso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 36
+	},
+	{
+		"numero" : 23,
+		"nome" : "Estrada do Paraíso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 273
+	},
+	{
+		"numero" : 24,
+		"nome" : "Centro - Quitandinha",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 37
+	},
+	{
+		"numero" : 24,
+		"nome" : "Centro - Quitandinha",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 274
+	},
+	{
+		"numero" : 25,
+		"nome" : "Centro - Terminal Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 38
+	},
+	{
+		"numero" : 25,
+		"nome" : "Centro - Terminal Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 275
+	},
+	{
+		"numero" : 70,
+		"nome" : "Posse/Gabi - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 148
+	},
+	{
+		"numero" : 70,
+		"nome" : "Posse/Gabi - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 385
+	},
+	{
+		"numero" : 74,
+		"nome" : "Rio Bonito - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 149
+	},
+	{
+		"numero" : 74,
+		"nome" : "Rio Bonito - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 386
+	},
+	{
+		"numero" : 100,
+		"nome" : "Rodoviária Bingen - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 204
+	},
+	{
+		"numero" : 100,
+		"nome" : "Rodoviária Bingen - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 438
+	},
+	{
+		"numero" : 101,
+		"nome" : "Rocio - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 205
+	},
+	{
+		"numero" : 101,
+		"nome" : "Rocio - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 439
+	},
+	{
+		"numero" : 102,
+		"nome" : "14 Bis - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 206
+	},
+	{
+		"numero" : 102,
+		"nome" : "14 Bis - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 440
+	},
+	{
+		"numero" : 103,
+		"nome" : "Cândido Portinari - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 207
+	},
+	{
+		"numero" : 103,
+		"nome" : "Cândido Portinari - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 441
+	},
+	{
+		"numero" : 104,
+		"nome" : "Vila Militar - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 208
+	},
+	{
+		"numero" : 104,
+		"nome" : "Vila Militar - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 442
+	},
+	{
+		"numero" : 105,
+		"nome" : "Alberto Oliveira - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 209
+	},
+	{
+		"numero" : 105,
+		"nome" : "Alberto Oliveira - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 443
+	},
+	{
+		"numero" : 106,
+		"nome" : "Bataillard - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 210
+	},
+	{
+		"numero" : 106,
+		"nome" : "Bataillard - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 444
+	},
+	{
+		"numero" : 107,
+		"nome" : "Rodoviária Bingen - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 211
+	},
+	{
+		"numero" : 107,
+		"nome" : "Rodoviária Bingen - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 445
+	},
+	{
+		"numero" : 108,
+		"nome" : "Bairro Castrioto - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 212
+	},
+	{
+		"numero" : 108,
+		"nome" : "Bairro Castrioto - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 446
+	},
+	{
+		"numero" : 110,
+		"nome" : "Duarte da Silveira - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 213
+	},
+	{
+		"numero" : 110,
+		"nome" : "Duarte da Silveira - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 447
+	},
+	{
+		"numero" : 111,
+		"nome" : "Duarte da Silveira - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 214
+	},
+	{
+		"numero" : 111,
+		"nome" : "Duarte da Silveira - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 448
+	},
+	{
+		"numero" : 112,
+		"nome" : "Waldemar Ferreira - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 215
+	},
+	{
+		"numero" : 112,
+		"nome" : "Waldemar Ferreira - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 449
+	},
+	{
+		"numero" : 113,
+		"nome" : "Marechal Hermes - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 216
+	},
+	{
+		"numero" : 113,
+		"nome" : "Marechal Hermes - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 450
+	},
+	{
+		"numero" : 114,
+		"nome" : "Batista da Costa - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 217
+	},
+	{
+		"numero" : 114,
+		"nome" : "Batista da Costa - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 451
+	},
+	{
+		"numero" : 115,
+		"nome" : "Campo do Serrano - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 218
+	},
+	{
+		"numero" : 115,
+		"nome" : "Campo do Serrano - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 452
+	},
+	{
+		"numero" : 116,
+		"nome" : "Dias de Oliveira - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 219
+	},
+	{
+		"numero" : 116,
+		"nome" : "Dias de Oliveira - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 453
+	},
+	{
+		"numero" : 117,
+		"nome" : "João Xavier - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 220
+	},
+	{
+		"numero" : 117,
+		"nome" : "João Xavier - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 454
+	},
+	{
+		"numero" : 118,
+		"nome" : "Pedras Brancas - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 221
+	},
+	{
+		"numero" : 118,
+		"nome" : "Pedras Brancas - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 455
+	},
+	{
+		"numero" : 119,
+		"nome" : "Vila São José - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 222
+	},
+	{
+		"numero" : 119,
+		"nome" : "Vila São José - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 456
+	},
+	{
+		"numero" : 120,
+		"nome" : "Contorno - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 223
+	},
+	{
+		"numero" : 120,
+		"nome" : "Contorno - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 457
+	},
+	{
+		"numero" : 122,
+		"nome" : "Fazenda Inglesa - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 224
+	},
+	{
+		"numero" : 122,
+		"nome" : "Fazenda Inglesa - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 458
+	},
+	{
+		"numero" : 123,
+		"nome" : "Centenário - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 225
+	},
+	{
+		"numero" : 123,
+		"nome" : "Centenário - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 459
+	},
+	{
+		"numero" : 125,
+		"nome" : "Castrioto - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Caxambu) (Noturno)",
+		"idItinerario" : 226
+	},
+	{
+		"numero" : 125,
+		"nome" : "Castrioto - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Caxambu) (Noturno) (125-2)",
+		"idItinerario" : 227
+	},
+	{
+		"numero" : 125,
+		"nome" : "Castrioto - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Caxambu) (Noturno)",
+		"idItinerario" : 460
+	},
+	{
+		"numero" : 125,
+		"nome" : "Castrioto - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Caxambu) (Noturno) (125-2)",
+		"idItinerario" : 461
+	},
+	{
+		"numero" : 126,
+		"nome" : "Duarte da Silveira - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 228
+	},
+	{
+		"numero" : 126,
+		"nome" : "Duarte da Silveira - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno) (126-2)",
+		"idItinerario" : 229
+	},
+	{
+		"numero" : 126,
+		"nome" : "Duarte da Silveira - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 462
+	},
+	{
+		"numero" : 126,
+		"nome" : "Duarte da Silveira - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno) (126-2)",
+		"idItinerario" : 463
+	},
+	{
+		"numero" : 127,
+		"nome" : "Mosela - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 230
+	},
+	{
+		"numero" : 127,
+		"nome" : "Mosela - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 464
+	},
+	{
+		"numero" : 129,
+		"nome" : "Moinho Preto - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 231
+	},
+	{
+		"numero" : 129,
+		"nome" : "Moinho Preto - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 465
+	},
+	{
+		"numero" : 130,
+		"nome" : "Jorge Justen - Rodoviária Bingen ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 466
+	},
+	{
+		"numero" : 130,
+		"nome" : "Jorge Justen - Rodoviária Bingen ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 232
+	},
+	{
+		"numero" : 132,
+		"nome" : "Teófilo da Silva - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 233
+	},
+	{
+		"numero" : 132,
+		"nome" : "Teófilo da Silva - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 467
+	},
+	{
+		"numero" : 133,
+		"nome" : "Alberto de Oliveira - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 234
+	},
+	{
+		"numero" : 133,
+		"nome" : "Alberto de Oliveira - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 468
+	},
+	{
+		"numero" : 134,
+		"nome" : "Centro - Baitallard",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 235
+	},
+	{
+		"numero" : 134,
+		"nome" : "Centro - Baitallard",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 469
+	},
+	{
+		"numero" : 135,
+		"nome" : "Eliza Mussel - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 236
+	},
+	{
+		"numero" : 135,
+		"nome" : "Eliza Mussel - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 470
+	},
+	{
+		"numero" : 137,
+		"nome" : "Fazenda Inglesa - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 237
+	},
+	{
+		"numero" : 137,
+		"nome" : "Fazenda Inglesa - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 471
+	},
+	{
+		"numero" : 139,
+		"nome" : "Moinho Preto - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 238
+	},
+	{
+		"numero" : 139,
+		"nome" : "Moinho Preto - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 472
+	},
+	{
+		"numero" : 140,
+		"nome" : "Vitória - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 239
+	},
+	{
+		"numero" : 140,
+		"nome" : "Vitória - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 473
+	},
+	{
+		"numero" : 145,
+		"nome" : "Mosela - Rodoviária Bingen ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 240
+	},
+	{
+		"numero" : 145,
+		"nome" : "Mosela - Rodoviária Bingen ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 474
+	},
+	{
+		"numero" : 150,
+		"nome" : "Terminal Corrêas - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 241
+	},
+	{
+		"numero" : 150,
+		"nome" : "Terminal Corrêas - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 475
+	},
+	{
+		"numero" : 160,
+		"nome" : "Terminal Itaipava - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 242
+	},
+	{
+		"numero" : 160,
+		"nome" : "Terminal Itaipava - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 476
+	},
+	{
+		"numero" : 170,
+		"nome" : "Terminal Itamarati - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 243
+	},
+	{
+		"numero" : 170,
+		"nome" : "Terminal Itamarati - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 477
+	},
+	{
+		"numero" : 180,
+		"nome" : "Quitandinha - Rodoviária Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 244
+	},
+	{
+		"numero" : 180,
+		"nome" : "Quitandinha - Rodoviária Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 478
+	},
+	{
+		"numero" : 190,
+		"nome" : "Corredor Industrial Duarte da Silveira - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 245
+	},
+	{
+		"numero" : 190,
+		"nome" : "Corredor Industrial Duarte da Silveira - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 479
+	},
+	{
+		"numero" : 200,
+		"nome" : "Alto da Serra - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 480
+	},
+	{
+		"numero" : 200,
+		"nome" : "Alto da Serra - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 481
+	},
+	{
+		"numero" : 204,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 39
+	},
+	{
+		"numero" : 204,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 276
+	},
+	{
+		"numero" : 205,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 40
+	},
+	{
+		"numero" : 205,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 277
+	},
+	{
+		"numero" : 206,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 41
+	},
+	{
+		"numero" : 206,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 278
+	},
+	{
+		"numero" : 209,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 42
+	},
+	{
+		"numero" : 209,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 279
+	},
+	{
+		"numero" : 210,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 43
+	},
+	{
+		"numero" : 210,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 280
+	},
+	{
+		"numero" : 211,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 44
+	},
+	{
+		"numero" : 211,
+		"nome" : "Valparaíso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 281
+	},
+	{
+		"numero" : 212,
+		"nome" : "Joaquim Gomensoro - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 45
+	},
+	{
+		"numero" : 212,
+		"nome" : "Joaquim Gomensoro - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 282
+	},
+	{
+		"numero" : 300,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 10
+	},
+	{
+		"numero" : 300,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 247
+	},
+	{
+		"numero" : 301,
+		"nome" : "Loteamento Samambaia - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 11
+	},
+	{
+		"numero" : 301,
+		"nome" : "Loteamento Samambaia - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 248
+	},
+	{
+		"numero" : 302,
+		"nome" : "Floresta - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 12
+	},
+	{
+		"numero" : 302,
+		"nome" : "Floresta - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 249
+	},
+	{
+		"numero" : 303,
+		"nome" : "Bela Vista - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 13
+	},
+	{
+		"numero" : 303,
+		"nome" : "Bela Vista - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 250
+	},
+	{
+		"numero" : 306,
+		"nome" : "Bairro Esperança - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 15
+	},
+	{
+		"numero" : 306,
+		"nome" : "Bairro Esperança - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 252
+	},
+	{
+		"numero" : 307,
+		"nome" : "Ponte Samambaia - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 16
+	},
+	{
+		"numero" : 307,
+		"nome" : "Ponte Samambaia - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 253
+	},
+	{
+		"numero" : 309,
+		"nome" : "Humberto Rovigatti - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 17
+	},
+	{
+		"numero" : 309,
+		"nome" : "Humberto Rovigatti - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 254
+	},
+	{
+		"numero" : 310,
+		"nome" : "Spartaco Banal - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 18
+	},
+	{
+		"numero" : 310,
+		"nome" : "Spartaco Banal - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 255
+	},
+	{
+		"numero" : 311,
+		"nome" : "Matriz de Cascatinha - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 19
+	},
+	{
+		"numero" : 311,
+		"nome" : "Matriz de Cascatinha - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 256
+	},
+	{
+		"numero" : 312,
+		"nome" : "Loteamento Samambaia - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 20
+	},
+	{
+		"numero" : 312,
+		"nome" : "Loteamento Samambaia - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 257
+	},
+	{
+		"numero" : 314,
+		"nome" : "Loteamento Samambaia - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 21
+	},
+	{
+		"numero" : 314,
+		"nome" : "Loteamento Samambaia - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 258
+	},
+	{
+		"numero" : 315,
+		"nome" : "Loteamento Nova Cascatinha - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 22
+	},
+	{
+		"numero" : 315,
+		"nome" : "Loteamento Nova Cascatinha - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 259
+	},
+	{
+		"numero" : 316,
+		"nome" : "Floresta - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 23
+	},
+	{
+		"numero" : 316,
+		"nome" : "Floresta - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 260
+	},
+	{
+		"numero" : 317,
+		"nome" : "Bela Vista - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 24
+	},
+	{
+		"numero" : 317,
+		"nome" : "Bela Vista - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 261
+	},
+	{
+		"numero" : 318,
+		"nome" : "Luiz Salomão Viana - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 25
+	},
+	{
+		"numero" : 318,
+		"nome" : "Luiz Salomão Viana - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 262
+	},
+	{
+		"numero" : 319,
+		"nome" : "Rodolfo Alberto Pires - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 26
+	},
+	{
+		"numero" : 319,
+		"nome" : "Rodolfo Alberto Pires - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 263
+	},
+	{
+		"numero" : 321,
+		"nome" : "Alto Alcobacinha - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 27
+	},
+	{
+		"numero" : 321,
+		"nome" : "Alto Alcobacinha - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 264
+	},
+	{
+		"numero" : 322,
+		"nome" : "Viúva Lima - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 28
+	},
+	{
+		"numero" : 322,
+		"nome" : "Viúva Lima - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 265
+	},
+	{
+		"numero" : 323,
+		"nome" : "Ponte de Ferro - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 29
+	},
+	{
+		"numero" : 323,
+		"nome" : "Ponte de Ferro - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 266
+	},
+	{
+		"numero" : 324,
+		"nome" : "Bairro Esperança - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 30
+	},
+	{
+		"numero" : 324,
+		"nome" : "Bairro Esperança - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 267
+	},
+	{
+		"numero" : 325,
+		"nome" : "Alto Bela Vista - Terminal Itamarati",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 14
+	},
+	{
+		"numero" : 325,
+		"nome" : "Alto Bela Vista - Terminal Itamarati",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 251
+	},
+	{
+		"numero" : 330,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 31
+	},
+	{
+		"numero" : 330,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 268
+	},
+	{
+		"numero" : 340,
+		"nome" : "Terminal Itamarati - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 32
+	},
+	{
+		"numero" : 340,
+		"nome" : "Terminal Itamarati - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 269
+	},
+	{
+		"numero" : 360,
+		"nome" : "Terminal Itamarati - Alto da Serra",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 33
+	},
+	{
+		"numero" : 360,
+		"nome" : "Terminal Itamarati - Alto da Serra",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 270
+	},
+	{
+		"numero" : 370,
+		"nome" : "Terminal Itamarati - Terminal Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 34
+	},
+	{
+		"numero" : 370,
+		"nome" : "Terminal Itamarati - Terminal Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 271
+	},
+	{
+		"numero" : 401,
+		"nome" : "Independência - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 46
+	},
+	{
+		"numero" : 401,
+		"nome" : "Independência - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 283
+	},
+	{
+		"numero" : 402,
+		"nome" : "Taquara - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 47
+	},
+	{
+		"numero" : 402,
+		"nome" : "Taquara - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 284
+	},
+	{
+		"numero" : 403,
+		"nome" : "Honduras - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 1
+	},
+	{
+		"numero" : 403,
+		"nome" : "Honduras - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 2
+	},
+	{
+		"numero" : 404,
+		"nome" : "Duques - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 3
+	},
+	{
+		"numero" : 404,
+		"nome" : "Duques - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 4
+	},
+	{
+		"numero" : 405,
+		"nome" : "Getúlio Vargas - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 5
+	},
+	{
+		"numero" : 405,
+		"nome" : "Getúlio Vargas - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 6
+	},
+	{
+		"numero" : 406,
+		"nome" : "Dr. Thouzet - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 48
+	},
+	{
+		"numero" : 406,
+		"nome" : "Dr. Thouzet - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 285
+	},
+	{
+		"numero" : 407,
+		"nome" : "Siméria - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Castelânea)",
+		"idItinerario" : 49
+	},
+	{
+		"numero" : 407,
+		"nome" : "Siméria - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Castelânea)",
+		"idItinerario" : 286
+	},
+	{
+		"numero" : 408,
+		"nome" : "Vital Brasil - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 50
+	},
+	{
+		"numero" : 408,
+		"nome" : "Vital Brasil - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 287
+	},
+	{
+		"numero" : 409,
+		"nome" : "Olga Castrioto - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 51
+	},
+	{
+		"numero" : 409,
+		"nome" : "Olga Castrioto - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 288
+	},
+	{
+		"numero" : 410,
+		"nome" : "Capitão Paladini - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 52
+	},
+	{
+		"numero" : 410,
+		"nome" : "Capitão Paladini - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 289
+	},
+	{
+		"numero" : 411,
+		"nome" : "Vital Brasil - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 53
+	},
+	{
+		"numero" : 411,
+		"nome" : "Vital Brasil - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 290
+	},
+	{
+		"numero" : 412,
+		"nome" : "Quitandinha - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 7
+	},
+	{
+		"numero" : 412,
+		"nome" : "Quitandinha - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 8
+	},
+	{
+		"numero" : 413,
+		"nome" : "Lopes Trovão - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 54
+	},
+	{
+		"numero" : 413,
+		"nome" : "Lopes Trovão - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 291
+	},
+	{
+		"numero" : 414,
+		"nome" : "Chácara Flora - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 55
+	},
+	{
+		"numero" : 414,
+		"nome" : "Chácara Flora - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 292
+	},
+	{
+		"numero" : 415,
+		"nome" : "Vila Felipe - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 56
+	},
+	{
+		"numero" : 415,
+		"nome" : "Vila Felipe - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 293
+	},
+	{
+		"numero" : 419,
+		"nome" : "Sargento Boening - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 57
+	},
+	{
+		"numero" : 419,
+		"nome" : "Sargento Boening - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 294
+	},
+	{
+		"numero" : 420,
+		"nome" : "Meio da Serra - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 58
+	},
+	{
+		"numero" : 420,
+		"nome" : "Meio da Serra - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 295
+	},
+	{
+		"numero" : 421,
+		"nome" : "Bairro Mauá - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 59
+	},
+	{
+		"numero" : 421,
+		"nome" : "Bairro Mauá - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 296
+	},
+	{
+		"numero" : 422,
+		"nome" : "Amazonas - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 60
+	},
+	{
+		"numero" : 422,
+		"nome" : "Amazonas - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 297
+	},
+	{
+		"numero" : 423,
+		"nome" : "Vila Hípica - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 61
+	},
+	{
+		"numero" : 423,
+		"nome" : "Vila Hípica - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 298
+	},
+	{
+		"numero" : 424,
+		"nome" : "Vila Hípica - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 62
+	},
+	{
+		"numero" : 424,
+		"nome" : "Vila Hípica - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 299
+	},
+	{
+		"numero" : 425,
+		"nome" : "Venezuela - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 63
+	},
+	{
+		"numero" : 425,
+		"nome" : "Venezuela - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 300
+	},
+	{
+		"numero" : 426,
+		"nome" : "Campinho - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes)",
+		"idItinerario" : 64
+	},
+	{
+		"numero" : 426,
+		"nome" : "Campinho - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes)",
+		"idItinerario" : 301
+	},
+	{
+		"numero" : 427,
+		"nome" : "24 de Maio - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(427-2)",
+		"idItinerario" : 486
+	},
+	{
+		"numero" : 427,
+		"nome" : "24 de Maio - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 65
+	},
+	{
+		"numero" : 427,
+		"nome" : "24 de Maio - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(427-2)",
+		"idItinerario" : 487
+	},
+	{
+		"numero" : 427,
+		"nome" : "24 de Maio - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 302
+	},
+	{
+		"numero" : 428,
+		"nome" : "Espírito Santo - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 66
+	},
+	{
+		"numero" : 428,
+		"nome" : "Espírito Santo - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 303
+	},
+	{
+		"numero" : 429,
+		"nome" : "Lagoinha - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 67
+	},
+	{
+		"numero" : 429,
+		"nome" : "Lagoinha - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 304
+	},
+	{
+		"numero" : 430,
+		"nome" : "Aldo Tamancoldi - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 68
+	},
+	{
+		"numero" : 430,
+		"nome" : "Aldo Tamancoldi - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 305
+	},
+	{
+		"numero" : 431,
+		"nome" : "Pedro Ivo - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 69
+	},
+	{
+		"numero" : 431,
+		"nome" : "Pedro Ivo - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 306
+	},
+	{
+		"numero" : 432,
+		"nome" : "Vila Felipe - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes)",
+		"idItinerario" : 70
+	},
+	{
+		"numero" : 432,
+		"nome" : "Vila Felipe - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes)",
+		"idItinerario" : 307
+	},
+	{
+		"numero" : 433,
+		"nome" : "Sargento Boening - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes)",
+		"idItinerario" : 71
+	},
+	{
+		"numero" : 433,
+		"nome" : "Sargento Boening - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes)",
+		"idItinerario" : 308
+	},
+	{
+		"numero" : 434,
+		"nome" : "Alto da Serra - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via D. João Braga)",
+		"idItinerario" : 72
+	},
+	{
+		"numero" : 434,
+		"nome" : "Alto da Serra - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via D. João Braga)",
+		"idItinerario" : 309
+	},
+	{
+		"numero" : 435,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Cacilda Becker)",
+		"idItinerario" : 73
+	},
+	{
+		"numero" : 435,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Cacilda Becker)",
+		"idItinerario" : 310
+	},
+	{
+		"numero" : 436,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 74
+	},
+	{
+		"numero" : 436,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 311
+	},
+	{
+		"numero" : 437,
+		"nome" : "R. Amazonas - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via R. Alagoas)",
+		"idItinerario" : 75
+	},
+	{
+		"numero" : 437,
+		"nome" : "R. Amazonas - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via R. Alagoas)",
+		"idItinerario" : 312
+	},
+	{
+		"numero" : 438,
+		"nome" : "Siméria - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 76
+	},
+	{
+		"numero" : 438,
+		"nome" : "Siméria - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 313
+	},
+	{
+		"numero" : 439,
+		"nome" : "Dr. Thouzet - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 77
+	},
+	{
+		"numero" : 439,
+		"nome" : "Dr. Thouzet - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 314
+	},
+	{
+		"numero" : 440,
+		"nome" : "Rio de Janeiro - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 78
+	},
+	{
+		"numero" : 440,
+		"nome" : "Rio de Janeiro - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 315
+	},
+	{
+		"numero" : 441,
+		"nome" : "Vila Hípica - Espírito Santo ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 488
+	},
+	{
+		"numero" : 441,
+		"nome" : "Vila Hípica - Espírito Santo ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 489
+	},
+	{
+		"numero" : 442,
+		"nome" : "Comunidade do Gulf - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 79
+	},
+	{
+		"numero" : 442,
+		"nome" : "Comunidade do Gulf - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 316
+	},
+	{
+		"numero" : 443,
+		"nome" : "Tancredo Neves - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 80
+	},
+	{
+		"numero" : 443,
+		"nome" : "Tancredo Neves - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 317
+	},
+	{
+		"numero" : 444,
+		"nome" : "Rua Nova - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 81
+	},
+	{
+		"numero" : 444,
+		"nome" : "Rua Nova - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 318
+	},
+	{
+		"numero" : 445,
+		"nome" : "Oswero Villaça - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 82
+	},
+	{
+		"numero" : 445,
+		"nome" : "Oswero Villaça - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 319
+	},
+	{
+		"numero" : 446,
+		"nome" : "Siméria - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Coronel Veiga)",
+		"idItinerario" : 83
+	},
+	{
+		"numero" : 446,
+		"nome" : "Siméria - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Coronel Veiga)",
+		"idItinerario" : 320
+	},
+	{
+		"numero" : 447,
+		"nome" : "Vital Brasil - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Castelânea)",
+		"idItinerario" : 84
+	},
+	{
+		"numero" : 447,
+		"nome" : "Vital Brasil - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Castelânea)",
+		"idItinerario" : 321
+	},
+	{
+		"numero" : 448,
+		"nome" : "Olga Castrioto - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Coronel Veiga)",
+		"idItinerario" : 85
+	},
+	{
+		"numero" : 448,
+		"nome" : "Olga Castrioto - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Coronel Veiga)",
+		"idItinerario" : 322
+	},
+	{
+		"numero" : 449,
+		"nome" : "Capitão Paladini - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Coronel Veiga)",
+		"idItinerario" : 86
+	},
+	{
+		"numero" : 449,
+		"nome" : "Capitão Paladini - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Coronel Veiga)",
+		"idItinerario" : 323
+	},
+	{
+		"numero" : 450,
+		"nome" : "Alto da Serra - Terminal Bingen",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 87
+	},
+	{
+		"numero" : 450,
+		"nome" : "Alto da Serra - Terminal Bingen",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 324
+	},
+	{
+		"numero" : 451,
+		"nome" : "Praça Catulo - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Euclides da Cunha)",
+		"idItinerario" : 88
+	},
+	{
+		"numero" : 451,
+		"nome" : "Praça Catulo - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Euclides da Cunha)",
+		"idItinerario" : 325
+	},
+	{
+		"numero" : 452,
+		"nome" : "Sargento Boening - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via R. Paulo Aguiar/R. Teresa)",
+		"idItinerario" : 89
+	},
+	{
+		"numero" : 452,
+		"nome" : "Sargento Boening - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via R. Paulo Aguiar/R. Teresa)",
+		"idItinerario" : 326
+	},
+	{
+		"numero" : 453,
+		"nome" : "Meio da Serra - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Santos Dumont)",
+		"idItinerario" : 90
+	},
+	{
+		"numero" : 453,
+		"nome" : "Meio da Serra - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Santos Dumont)",
+		"idItinerario" : 327
+	},
+	{
+		"numero" : 454,
+		"nome" : "Rio de Janeiro - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 91
+	},
+	{
+		"numero" : 454,
+		"nome" : "Rio de Janeiro - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 328
+	},
+	{
+		"numero" : 455,
+		"nome" : "Lagoinha - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Visc. De Bom Retiro)",
+		"idItinerario" : 92
+	},
+	{
+		"numero" : 455,
+		"nome" : "Lagoinha - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Visc. De Bom Retiro)",
+		"idItinerario" : 329
+	},
+	{
+		"numero" : 456,
+		"nome" : "Pedro Ivo - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Visc. De Bom Retiro)",
+		"idItinerario" : 93
+	},
+	{
+		"numero" : 456,
+		"nome" : "Pedro Ivo - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Visc. De Bom Retiro)",
+		"idItinerario" : 330
+	},
+	{
+		"numero" : 457,
+		"nome" : "Sargento Boening - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes/Paulo Aguiar)",
+		"idItinerario" : 94
+	},
+	{
+		"numero" : 457,
+		"nome" : "Sargento Boening - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Duas Pontes/Paulo Aguiar)",
+		"idItinerario" : 331
+	},
+	{
+		"numero" : 458,
+		"nome" : "Vila Felipe - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Vila Real)",
+		"idItinerario" : 95
+	},
+	{
+		"numero" : 458,
+		"nome" : "Vila Felipe - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Vila Real)",
+		"idItinerario" : 332
+	},
+	{
+		"numero" : 459,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra/C. Becker)",
+		"idItinerario" : 96
+	},
+	{
+		"numero" : 459,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra/C. Becker)",
+		"idItinerario" : 333
+	},
+	{
+		"numero" : 461,
+		"nome" : "Olga Castrioto - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 97
+	},
+	{
+		"numero" : 461,
+		"nome" : "Olga Castrioto - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Alto da Serra)",
+		"idItinerario" : 334
+	},
+	{
+		"numero" : 462,
+		"nome" : "Alto Pedro Ivo - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 98
+	},
+	{
+		"numero" : 462,
+		"nome" : "Alto Pedro Ivo - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 335
+	},
+	{
+		"numero" : 463,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Cacilda Becker/Rua 'O')",
+		"idItinerario" : 99
+	},
+	{
+		"numero" : 463,
+		"nome" : "Alto Independência - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Cacilda Becker/Rua 'O')",
+		"idItinerario" : 336
+	},
+	{
+		"numero" : 464,
+		"nome" : "Roncoroni - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 100
+	},
+	{
+		"numero" : 464,
+		"nome" : "Roncoroni - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 337
+	},
+	{
+		"numero" : 465,
+		"nome" : "Amazonas - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 101
+	},
+	{
+		"numero" : 465,
+		"nome" : "Amazonas - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 338
+	},
+	{
+		"numero" : 466,
+		"nome" : "Alagoas - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 102
+	},
+	{
+		"numero" : 466,
+		"nome" : "Alagoas - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 339
+	},
+	{
+		"numero" : 467,
+		"nome" : "Honduras - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Comunidade do Gulf)",
+		"idItinerario" : 103
+	},
+	{
+		"numero" : 467,
+		"nome" : "Honduras - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Comunidade do Gulf)",
+		"idItinerario" : 340
+	},
+	{
+		"numero" : 468,
+		"nome" : "Oswero C. Villaça - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Aldo Tamancoldi)",
+		"idItinerario" : 104
+	},
+	{
+		"numero" : 468,
+		"nome" : "Oswero C. Villaça - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Aldo Tamancoldi)",
+		"idItinerario" : 341
+	},
+	{
+		"numero" : 469,
+		"nome" : "Vila Hípica - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 105
+	},
+	{
+		"numero" : 469,
+		"nome" : "Vila Hípica - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 342
+	},
+	{
+		"numero" : 470,
+		"nome" : "Santa Isabel - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 106
+	},
+	{
+		"numero" : 470,
+		"nome" : "Santa Isabel - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 343
+	},
+	{
+		"numero" : 480,
+		"nome" : "Quitandinha - Terminal Bingen ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 107
+	},
+	{
+		"numero" : 480,
+		"nome" : "Quitandinha - Terminal Bingen ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 344
+	},
+	{
+		"numero" : 495,
+		"nome" : "Alto da Serra/Morin/Sgto Boening - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 108
+	},
+	{
+		"numero" : 495,
+		"nome" : "Alto da Serra/Morin/Sgto Boening - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 345
+	},
+	{
+		"numero" : 496,
+		"nome" : "Alto Independência - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 109
+	},
+	{
+		"numero" : 496,
+		"nome" : "Alto Independência - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 346
+	},
+	{
+		"numero" : 497,
+		"nome" : "Duques - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 110
+	},
+	{
+		"numero" : 497,
+		"nome" : "Duques - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 347
+	},
+	{
+		"numero" : 498,
+		"nome" : "Doutor Thouzeth/São Sebastião/Siméria - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 111
+	},
+	{
+		"numero" : 498,
+		"nome" : "Doutor Thouzeth/São Sebastião/Siméria - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 348
+	},
+	{
+		"numero" : 499,
+		"nome" : "Rio de Janeiro - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 112
+	},
+	{
+		"numero" : 499,
+		"nome" : "Rio de Janeiro - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 349
+	},
+	{
+		"numero" : 500,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 150
+	},
+	{
+		"numero" : 500,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 387
+	},
+	{
+		"numero" : 502,
+		"nome" : "Comunidade São Luiz - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 113
+	},
+	{
+		"numero" : 502,
+		"nome" : "Comunidade São Luiz - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 350
+	},
+	{
+		"numero" : 503,
+		"nome" : "Cidade Nova - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 114
+	},
+	{
+		"numero" : 503,
+		"nome" : "Cidade Nova - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 351
+	},
+	{
+		"numero" : 505,
+		"nome" : "Vila Manzini - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 115
+	},
+	{
+		"numero" : 505,
+		"nome" : "Vila Manzini - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 352
+	},
+	{
+		"numero" : 506,
+		"nome" : "Vicenzo Rivetti - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 116
+	},
+	{
+		"numero" : 506,
+		"nome" : "Vicenzo Rivetti - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 353
+	},
+	{
+		"numero" : 507,
+		"nome" : "João de Deus - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 117
+	},
+	{
+		"numero" : 507,
+		"nome" : "João de Deus - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 354
+	},
+	{
+		"numero" : 508,
+		"nome" : "Max Manoel Molter - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 118
+	},
+	{
+		"numero" : 508,
+		"nome" : "Max Manoel Molter - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 355
+	},
+	{
+		"numero" : 510,
+		"nome" : "Vale dos Esquilos - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 119
+	},
+	{
+		"numero" : 510,
+		"nome" : "Vale dos Esquilos - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 356
+	},
+	{
+		"numero" : 511,
+		"nome" : "Boa Vista - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 120
+	},
+	{
+		"numero" : 511,
+		"nome" : "Boa Vista - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 357
+	},
+	{
+		"numero" : 512,
+		"nome" : "Quarteirão Brasileiro - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 121
+	},
+	{
+		"numero" : 512,
+		"nome" : "Quarteirão Brasileiro - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 358
+	},
+	{
+		"numero" : 513,
+		"nome" : "Comunidade do Alemão - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 122
+	},
+	{
+		"numero" : 513,
+		"nome" : "Comunidade do Alemão - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 359
+	},
+	{
+		"numero" : 515,
+		"nome" : "Jardim Salvador - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via R. Lúcio Gambarra)",
+		"idItinerario" : 124
+	},
+	{
+		"numero" : 515,
+		"nome" : "Jardim Salvador - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 123
+	},
+	{
+		"numero" : 515,
+		"nome" : "Jardim Salvador - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via R. Lúcio Gambarra)",
+		"idItinerario" : 361
+	},
+	{
+		"numero" : 515,
+		"nome" : "Jardim Salvador - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 360
+	},
+	{
+		"numero" : 516,
+		"nome" : "Roseiral - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 125
+	},
+	{
+		"numero" : 516,
+		"nome" : "Roseiral - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 362
+	},
+	{
+		"numero" : 517,
+		"nome" : "Comunidade do Ventura - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 126
+	},
+	{
+		"numero" : 517,
+		"nome" : "Comunidade do Ventura - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 363
+	},
+	{
+		"numero" : 518,
+		"nome" : "Atílio Marotti - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(518-1)",
+		"idItinerario" : 127
+	},
+	{
+		"numero" : 518,
+		"nome" : "Atílio Marotti - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(518-2)",
+		"idItinerario" : 128
+	},
+	{
+		"numero" : 518,
+		"nome" : "Atílio Marotti - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(518-1)",
+		"idItinerario" : 364
+	},
+	{
+		"numero" : 518,
+		"nome" : "Atílio Marotti - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(518-2)",
+		"idItinerario" : 365
+	},
+	{
+		"numero" : 519,
+		"nome" : "Vale do Carangola - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(519-1)",
+		"idItinerario" : 129
+	},
+	{
+		"numero" : 519,
+		"nome" : "Vale do Carangola - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(519-2)",
+		"idItinerario" : 130
+	},
+	{
+		"numero" : 519,
+		"nome" : "Vale do Carangola - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(519-1)",
+		"idItinerario" : 366
+	},
+	{
+		"numero" : 519,
+		"nome" : "Vale do Carangola - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(519-2)",
+		"idItinerario" : 367
+	},
+	{
+		"numero" : 520,
+		"nome" : "Fragoso - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 131
+	},
+	{
+		"numero" : 520,
+		"nome" : "Fragoso - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 368
+	},
+	{
+		"numero" : 521,
+		"nome" : "Monte Florido - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 132
+	},
+	{
+		"numero" : 521,
+		"nome" : "Monte Florido - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 369
+	},
+	{
+		"numero" : 522,
+		"nome" : "Luiz Pellegrini - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 133
+	},
+	{
+		"numero" : 522,
+		"nome" : "Luiz Pellegrini - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 370
+	},
+	{
+		"numero" : 523,
+		"nome" : "Alto da Boa Vista - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 134
+	},
+	{
+		"numero" : 523,
+		"nome" : "Alto da Boa Vista - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 371
+	},
+	{
+		"numero" : 524,
+		"nome" : "Veridiano Félix - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 135
+	},
+	{
+		"numero" : 524,
+		"nome" : "Veridiano Félix - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 372
+	},
+	{
+		"numero" : 525,
+		"nome" : "Comunidade do Neylor - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 136
+	},
+	{
+		"numero" : 525,
+		"nome" : "Comunidade do Neylor - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 373
+	},
+	{
+		"numero" : 526,
+		"nome" : "Modesto Guimarães - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 137
+	},
+	{
+		"numero" : 526,
+		"nome" : "Modesto Guimarães - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 374
+	},
+	{
+		"numero" : 527,
+		"nome" : "Montese - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 138
+	},
+	{
+		"numero" : 527,
+		"nome" : "Montese - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 375
+	},
+	{
+		"numero" : 528,
+		"nome" : "Alto Comunidade do Alemão - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 139
+	},
+	{
+		"numero" : 528,
+		"nome" : "Alto Comunidade do Alemão - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 376
+	},
+	{
+		"numero" : 529,
+		"nome" : "Débora Couto Sucupira - Terminal Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 140
+	},
+	{
+		"numero" : 529,
+		"nome" : "Débora Couto Sucupira - Terminal Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 377
+	},
+	{
+		"numero" : 560,
+		"nome" : "Vila Manzini - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Modesto Guimarães)",
+		"idItinerario" : 141
+	},
+	{
+		"numero" : 560,
+		"nome" : "Max Manoel Molter - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 142
+	},
+	{
+		"numero" : 560,
+		"nome" : "Vila Manzini - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Modesto Guimarães)",
+		"idItinerario" : 378
+	},
+	{
+		"numero" : 560,
+		"nome" : "Max Manoel Molter - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 379
+	},
+	{
+		"numero" : 598,
+		"nome" : "Vicenzo Rivetti - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 143
+	},
+	{
+		"numero" : 598,
+		"nome" : "Vicenzo Rivetti - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 380
+	},
+	{
+		"numero" : 599,
+		"nome" : "Boa Vista - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 144
+	},
+	{
+		"numero" : 599,
+		"nome" : "Boa Vista - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Atílio Marotti) (Noturno)",
+		"idItinerario" : 145
+	},
+	{
+		"numero" : 599,
+		"nome" : "Boa Vista - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 381
+	},
+	{
+		"numero" : 599,
+		"nome" : "Boa Vista - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Atílio Marotti) (Noturno)",
+		"idItinerario" : 382
+	},
+	{
+		"numero" : 600,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 151
+	},
+	{
+		"numero" : 600,
+		"nome" : "Terminal Corrêas - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 388
+	},
+	{
+		"numero" : 601,
+		"nome" : "Fazenda Inglesa - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 152
+	},
+	{
+		"numero" : 601,
+		"nome" : "Fazenda Inglesa - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 389
+	},
+	{
+		"numero" : 602,
+		"nome" : "Vale das Videiras - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 153
+	},
+	{
+		"numero" : 602,
+		"nome" : "Vale das Videiras - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 390
+	},
+	{
+		"numero" : 603,
+		"nome" : "Águas Lindas - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 154
+	},
+	{
+		"numero" : 603,
+		"nome" : "Águas Lindas - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 391
+	},
+	{
+		"numero" : 604,
+		"nome" : "Vila Epitácio - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 155
+	},
+	{
+		"numero" : 604,
+		"nome" : "Vila Epitácio - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 392
+	},
+	{
+		"numero" : 605,
+		"nome" : "Vale das Videiras - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 156
+	},
+	{
+		"numero" : 605,
+		"nome" : "Vale das Videiras - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 393
+	},
+	{
+		"numero" : 606,
+		"nome" : "Alcides Carneiro - Terminal Corrêas ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Ponte Branca)",
+		"idItinerario" : 158
+	},
+	{
+		"numero" : 606,
+		"nome" : "Alcides Carneiro - Terminal de Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 157
+	},
+	{
+		"numero" : 606,
+		"nome" : "Alcides Carneiro - Terminal Corrêas ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(via Ponte Branca)",
+		"idItinerario" : 395
+	},
+	{
+		"numero" : 606,
+		"nome" : "Alcides Carneiro - Terminal de Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 394
+	},
+	{
+		"numero" : 607,
+		"nome" : "Caitetu - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 159
+	},
+	{
+		"numero" : 607,
+		"nome" : "Caitetu - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 396
+	},
+	{
+		"numero" : 608,
+		"nome" : "Calembe - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 160
+	},
+	{
+		"numero" : 608,
+		"nome" : "Calembe - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 397
+	},
+	{
+		"numero" : 609,
+		"nome" : "Castelo São Manoel - Terminal Corrêas ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 161
+	},
+	{
+		"numero" : 609,
+		"nome" : "Castelo São Manoel - Terminal Corrêas ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 398
+	},
+	{
+		"numero" : 610,
+		"nome" : "Araras - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 162
+	},
+	{
+		"numero" : 610,
+		"nome" : "Araras - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 399
+	},
+	{
+		"numero" : 611,
+		"nome" : "Bonfim - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 163
+	},
+	{
+		"numero" : 611,
+		"nome" : "Bonfim - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 400
+	},
+	{
+		"numero" : 612,
+		"nome" : "Vista Alegre - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 164
+	},
+	{
+		"numero" : 612,
+		"nome" : "Vista Alegre - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 401
+	},
+	{
+		"numero" : 613,
+		"nome" : "Bairro da Glória - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 165
+	},
+	{
+		"numero" : 613,
+		"nome" : "Bairro da Glória - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 402
+	},
+	{
+		"numero" : 615,
+		"nome" : "Carangola - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 166
+	},
+	{
+		"numero" : 616,
+		"nome" : "Vale das Flores - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 167
+	},
+	{
+		"numero" : 616,
+		"nome" : "Vale das Flores - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 403
+	},
+	{
+		"numero" : 617,
+		"nome" : "Araras - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 168
+	},
+	{
+		"numero" : 617,
+		"nome" : "Araras - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 404
+	},
+	{
+		"numero" : 618,
+		"nome" : "Santa Luzia - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 169
+	},
+	{
+		"numero" : 618,
+		"nome" : "Santa Luzia - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 405
+	},
+	{
+		"numero" : 619,
+		"nome" : "Castelo de São Manoel - Terminal Corrêas ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 170
+	},
+	{
+		"numero" : 619,
+		"nome" : "Castelo de São Manoel - Terminal Corrêas ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 406
+	},
+	{
+		"numero" : 621,
+		"nome" : "Rua Mercedes - Terminal Corrêas ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 171
+	},
+	{
+		"numero" : 621,
+		"nome" : "Rua Mercedes - Terminal Corrêas ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 407
+	},
+	{
+		"numero" : 622,
+		"nome" : "Vista Alegre - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 172
+	},
+	{
+		"numero" : 622,
+		"nome" : "Vista Alegre - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 408
+	},
+	{
+		"numero" : 670,
+		"nome" : "Centro - Araras ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(Executivo)",
+		"idItinerario" : 173
+	},
+	{
+		"numero" : 670,
+		"nome" : "Centro - Araras ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(Executivo)",
+		"idItinerario" : 409
+	},
+	{
+		"numero" : 672,
+		"nome" : "Águas Lindas (Executiva) - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 174
+	},
+	{
+		"numero" : 672,
+		"nome" : "Águas Lindas (Executiva) - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 410
+	},
+	{
+		"numero" : 698,
+		"nome" : "Vila Epitácio - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 176
+	},
+	{
+		"numero" : 698,
+		"nome" : "Vila Epitácio/Nogueira - Terminal Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Ponte Branca/Bonfim/Calembe/Águas Lindas) (Noturno)",
+		"idItinerario" : 175
+	},
+	{
+		"numero" : 698,
+		"nome" : "Vila Epitácio - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 412
+	},
+	{
+		"numero" : 698,
+		"nome" : "Vila Epitácio/Nogueira - Terminal Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(via Ponte Branca/Bonfim/Calembe/Águas Lindas) (Noturno)",
+		"idItinerario" : 411
+	},
+	{
+		"numero" : 699,
+		"nome" : "Araras - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 177
+	},
+	{
+		"numero" : 699,
+		"nome" : "Araras - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 413
+	},
+	{
+		"numero" : 700,
+		"nome" : "Terminal Itaipava - Centro",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 178
+	},
+	{
+		"numero" : 700,
+		"nome" : "Terminal Itaipava - Centro",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 414
+	},
+	{
+		"numero" : 701,
+		"nome" : "Pedro do Rio/Barra Mansa - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 179
+	},
+	{
+		"numero" : 701,
+		"nome" : "Pedro do Rio/Barra Mansa - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 415
+	},
+	{
+		"numero" : 703,
+		"nome" : "Santa Mônica - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 180
+	},
+	{
+		"numero" : 703,
+		"nome" : "Santa Mônica - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 416
+	},
+	{
+		"numero" : 704,
+		"nome" : "Madame Machado - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 181
+	},
+	{
+		"numero" : 704,
+		"nome" : "Madame Machado - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 417
+	},
+	{
+		"numero" : 705,
+		"nome" : "Cuiabá - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 182
+	},
+	{
+		"numero" : 705,
+		"nome" : "Cuiabá - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 418
+	},
+	{
+		"numero" : 706,
+		"nome" : "Gentio - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 183
+	},
+	{
+		"numero" : 706,
+		"nome" : "Gentio - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 419
+	},
+	{
+		"numero" : 707,
+		"nome" : "Fagundes - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 184
+	},
+	{
+		"numero" : 707,
+		"nome" : "Fagundes - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 420
+	},
+	{
+		"numero" : 709,
+		"nome" : "Manga Larga - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 185
+	},
+	{
+		"numero" : 709,
+		"nome" : "Manga Larga - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 421
+	},
+	{
+		"numero" : 710,
+		"nome" : "Terminal Itaipava - Boa Esperança ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 186
+	},
+	{
+		"numero" : 710,
+		"nome" : "Terminal Itaipava - Boa Esperança ",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 422
+	},
+	{
+		"numero" : 711,
+		"nome" : "Posse - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 187
+	},
+	{
+		"numero" : 711,
+		"nome" : "Posse - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 423
+	},
+	{
+		"numero" : 712,
+		"nome" : "Posse - Rio Bonito",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 188
+	},
+	{
+		"numero" : 712,
+		"nome" : "Posse - Rio Bonito",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 424
+	},
+	{
+		"numero" : 713,
+		"nome" : "Vila Rica - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 189
+	},
+	{
+		"numero" : 713,
+		"nome" : "Vila Rica - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 425
+	},
+	{
+		"numero" : 715,
+		"nome" : "Retiro das Pedras - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 190
+	},
+	{
+		"numero" : 715,
+		"nome" : "Retiro das Pedras - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 426
+	},
+	{
+		"numero" : 716,
+		"nome" : "Vargem dos Marmelos - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 191
+	},
+	{
+		"numero" : 716,
+		"nome" : "Vargem dos Marmelos - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 427
+	},
+	{
+		"numero" : 717,
+		"nome" : "Posse/Nossa Senhora de Fátima  - REGULAR ",
+		"sentido" : "C",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(717)",
+		"idItinerario" : 192
+	},
+	{
+		"numero" : 717,
+		"nome" : "Posse (via Santo Antônio/Boa Vista) (Circular) - REGULAR ",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "(717-2)",
+		"idItinerario" : 193
+	},
+	{
+		"numero" : 719,
+		"nome" : "Madame Machado - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 194
+	},
+	{
+		"numero" : 719,
+		"nome" : "Madame Machado - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 428
+	},
+	{
+		"numero" : 720,
+		"nome" : "Cuiabá - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 195
+	},
+	{
+		"numero" : 720,
+		"nome" : "Cuiabá - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 429
+	},
+	{
+		"numero" : 721,
+		"nome" : "Posse - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 196
+	},
+	{
+		"numero" : 721,
+		"nome" : "Posse - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 430
+	},
+	{
+		"numero" : 722,
+		"nome" : "Vila Rica - Centro ",
+		"sentido" : "I",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 197
+	},
+	{
+		"numero" : 722,
+		"nome" : "Vila Rica - Centro ",
+		"sentido" : "V",
+		"diurnoNoturno" : "N",
+		"informacoesAdicionais" : "(Noturno)",
+		"idItinerario" : 431
+	},
+	{
+		"numero" : 723,
+		"nome" : "Santa Mônica - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 198
+	},
+	{
+		"numero" : 723,
+		"nome" : "Santa Mônica - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 432
+	},
+	{
+		"numero" : 725,
+		"nome" : "Gaby - Posse",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 199
+	},
+	{
+		"numero" : 725,
+		"nome" : "Gaby - Posse",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 433
+	},
+	{
+		"numero" : 726,
+		"nome" : "Madame Machado - Terminal Itaipava",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 200
+	},
+	{
+		"numero" : 726,
+		"nome" : "Madame Machado - Terminal Itaipava",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 434
+	},
+	{
+		"numero" : 728,
+		"nome" : "Jurity - Posse",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 482
+	},
+	{
+		"numero" : 728,
+		"nome" : "Jurity - Posse",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 483
+	},
+	{
+		"numero" : 729,
+		"nome" : "Albertos - Posse",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 484
+	},
+	{
+		"numero" : 729,
+		"nome" : "Albertos - Posse",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 485
+	},
+	{
+		"numero" : 750,
+		"nome" : "Terminal Itaipava - Terminal Corrêas",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 201
+	},
+	{
+		"numero" : 750,
+		"nome" : "Terminal Itaipava - Terminal Corrêas",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 435
+	},
+	{
+		"numero" : 801,
+		"nome" : "Jurity - Posse",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 146
+	},
+	{
+		"numero" : 801,
+		"nome" : "Jurity - Posse",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 383
+	},
+	{
+		"numero" : 802,
+		"nome" : "Albertos - Posse",
+		"sentido" : "I",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 147
+	},
+	{
+		"numero" : 802,
+		"nome" : "Albertos - Posse",
+		"sentido" : "V",
+		"diurnoNoturno" : "D",
+		"informacoesAdicionais" : "null",
+		"idItinerario" : 384
+	}
+]

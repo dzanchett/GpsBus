@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cefet.gpsbus.TelaInicialSeHaInternet">
+
+    <fragment
+        android:id="@+id/buscaSimplesDestino"
+        android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toStartOf="@+id/buttonIr"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonIr"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="12dp"
+        android:background="@android:color/holo_blue_light"
+        android:onClick="goPesquisar"
+        android:text="@string/ir"
+        android:textColorLink="@color/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="@+id/buscaSimplesDestino"
+        app:layout_constraintEnd_toStartOf="@+id/buttonMenu"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/mapaTelaInicial"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buscaSimplesDestino"
+        app:layout_constraintVertical_bias="1.0"
+        tools:context="com.example.mapwithmarker.MapsMarkerActivity" />
+
+    <ImageButton
+        android:id="@+id/buttonMenu"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="12dp"
+        android:background="@android:color/holo_blue_light"
+        android:contentDescription="@string/menu"
+        android:onClick="abreMenuBuscaAvancada"
+        app:layout_constraintBottom_toBottomOf="@+id/buscaSimplesDestino"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_sort_by_size" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/MenuFuncoes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="16dp"
+        android:clickable="true"
+        android:onClick="menuFuncoes"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:srcCompat="@android:drawable/ic_dialog_dialer" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/botaoSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:clickable="true"
+        android:onClick="goSobre"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/MenuFuncoes"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@android:drawable/ic_dialog_info" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/botaoTurismo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:clickable="true"
+        android:onClick="goListaPontosTuristicos"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/botaoSobre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_myplaces" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/botaoMapaPontos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:clickable="true"
+        android:onClick="goMapaPontosOnibus"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/botaoTurismo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_mapmode" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/botaoItinerarios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:clickable="true"
+        android:onClick="goPesquisarItinerario"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/botãoHorarios"
+        app:layout_constraintEnd_toStartOf="@+id/botaoTurismo"
+        app:srcCompat="@android:drawable/ic_menu_directions" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/botãoHorarios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:clickable="true"
+        android:onClick="goPesquisarHorario"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/MenuFuncoes"
+        app:layout_constraintEnd_toStartOf="@+id/botaoSobre"
+        app:srcCompat="@android:drawable/ic_menu_recent_history" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/botaoPesquisar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:clickable="true"
+        android:onClick="goPesquisarOnibus"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/botaoItinerarios"
+        app:layout_constraintEnd_toStartOf="@+id/botaoMapaPontos"
+        app:srcCompat="@drawable/places_ic_search" />
+
+</android.support.constraint.ConstraintLayout>

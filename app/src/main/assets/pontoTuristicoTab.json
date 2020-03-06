@@ -1,0 +1,82 @@
+[
+	{
+		"nome" : "Casa de Santos Dumont",
+		"descricao" : "A casa de Santos Dumont em Petrópolis é uma pitoresca residência incrustada em uma localidade íngreme na cidade. Santos Dumont recebeu o convite de vanerar em Petrópolis da Princesa Isabel, na época áurea das temporadas na cidade serrana durante o império, e ao aceitar o convite decidiu construir uma casa que atendesse suas nescessidades.",
+		"lat" : -22.510356200000000000,
+		"lng" : -43.186425900000000000,
+		"id" : 4,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/19-centro-historico-abertos-a-visitacao/68-museu-casa-de-santos-dumont"
+	},
+	{
+		"nome" : "Catedral São Pedro de Alcântara",
+		"descricao" : "Construção em estilo neogótico francês. No seu interior destaca-se o Mausoléu onde estão os restos mortais da Família Imperial (dom Pedro II, dona Teresa Cristina, Princesa Isabel e Conde D’Eu) e também podem ser vistas esculturas de Jean Magrou, Bertozzi, vitrais e pinturas de Carlos Oswald. O altar gótico contém relíquias de São Magno, Santa Aurélia e Santa Tecla, trazidas de Roma pelo Cardeal D. Sebastião Leme. As portas principais pesam 2.400 kg cada.",
+		"lat" : -22.505568200000000000,
+		"lng" : -43.181288000000000000,
+		"id" : 3,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/19-centro-historico-abertos-a-visitacao/59-catedral-sao-pedro-de-alcantara"
+	},
+	{
+		"nome" : "Museu da FEB",
+		"descricao" : "O Museu da FEB - Petrópolis possui peças doadas pelos veteranos petropolitanos e por amigos do museu. No total são 673 peças em exposição, sendo 478 fotos e documentos e 195 objetos, dispostos em 3 salas. O Museu pode ser visitado por intermédio de veteranos.",
+		"lat" : -22.509002200000000000,
+		"lng" : -43.182714200000000000,
+		"id" : 7,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/19-centro-historico-abertos-a-visitacao/69-museu-da-feb-forca-expedicionaria-brasileira"
+	},
+	{
+		"nome" : "Museu Imperial",
+		"descricao" : "O museu imperial, popularmente conhecido como Palácio Imperial, é um museu histórico-temático localizado no centro histórico da cidade de petrópolis, no estado do Rio de Janeiro.",
+		"lat" : -22.508097000000000000,
+		"lng" : -43.177843300000000000,
+		"id" : 1,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/19-centro-historico-abertos-a-visitacao/70-museu-imperial"
+	},
+	{
+		"nome" : "Obelisco",
+		"descricao" : "O Obelisco de Petrópolis, inaugurado no dia 29 de setembro de 1957, foi construído a mando do então prefeito Flávio Castrioto em homenagem ao primeiro centenário da elevação de Petrópolis à categoria de cidade e também em homenagem aos alemães.",
+		"lat" : -22.510034200000000000,
+		"lng" : -43.177605300000000000,
+		"id" : 9,
+		"site" : "https://pt.wikipedia.org/wiki/Obelisco_de_Petr%C3%B3polis"
+	},
+	{
+		"nome" : "Palácio Quitandinha",
+		"descricao" : "O Palácio ou Hotel Quitandinha foi construído a partir de 1941 pelo empreendedor mineiro Joaquim Rolla, para ser o maior cassino hotel da América do Sul.",
+		"lat" : -22.527267000000000000,
+		"lng" : -43.214975100000000000,
+		"id" : 10,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/21-arredores-do-centro-abertos-a-visitacao/90-sesc-quitandinha-palacio-quitandinha"
+	},
+	{
+		"nome" : "Palácio Rio Negro",
+		"descricao" : "Em 1889, menos de três meses antes da proclamação da república, o senhor Manoel Gomes de Carvalho, Barão do Rio Negro, comprou dos herdeiros da familia Klippel o terreno onde seria erguido o seu palácio de verão. Em fevereiro de 1896, o Palácio e a casa ao lado, pertencentes a um dos filhos do Barão, foram vendidos ao estado do Rio de Janeiro para servir de residência oficial do governante.",
+		"lat" : -22.508608900000000000,
+		"lng" : -43.183306300000000000,
+		"id" : 2,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/19-centro-historico-abertos-a-visitacao/73-palacio-rio-negro-palacio-dos-presidentes"
+	},
+	{
+		"nome" : "Parque Natural",
+		"descricao" : "O parque foi criado a partir de uma reivindicação da população que desde 1992 lutou pela conservação desta área, evitando que fosse usada para outros fins. Neste período, diversas ações e eventos de organizações da sociedade civil foram realizados em prol da criação deste parque. Em 2002 estas organizações criaram o \"Comitê Pró-Parque Ecológico\", que mobilizou a sociedade petropolitana pela criação do \"Parque Natural Municipal de Petrópolis\"",
+		"lat" : -22.503151800000000000,
+		"lng" : -43.174750900000000000,
+		"id" : 6,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/19-centro-historico-abertos-a-visitacao/74-parque-natural-municipal-padre-quinha"
+	},
+	{
+		"nome" : "Praça 14 BIS",
+		"descricao" : "Possui uma réplica do inventi mais famoso de Santos Dumont, o 14 bis. A atração foi inaugurada em 2006 para comemorar o centenário do primeiro voo da aeronave.",
+		"lat" : -22.508960100000000000,
+		"lng" : -43.185698900000000000,
+		"id" : 8,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/20-centro-historico-visitacao-externa/79-praca-14-bis"
+	},
+	{
+		"nome" : "Praça da Liberdade",
+		"descricao" : "A praça da liberdade era chamada de Largo Dom Afonso, em homenagem ao primogênito de D. Pedro II, seu nome foi adaptado para Praça da Liberdade em 1888, em virtude da abolição da escravatura. Em 1923 passou a ser chamada de Praça Ruy Barbosa, porém, o povo não assimilou o novo nome e o antigo acabou prevalecendo. A praça que possui uma área de 21.275 metros quadrados.",
+		"lat" : -22.509493800000000000,
+		"lng" : -43.184983900000000000,
+		"id" : 5,
+		"site" : "http://www.petropolis.rj.gov.br/fct/index.php/turismo/atrativos/20-centro-historico-visitacao-externa/119-praca-da-liberdade"
+	}
+]

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cefet.gpsbus">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/googleMapsKey" />
+
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TelaInicialSeHaInternet"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+        <activity
+            android:name=".TelaInicialSeNaoHaInternet"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".menuBuscaAvancada"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.Dialog">
+        </activity>
+        <activity
+            android:name=".NotificacaoPerdaConexaoDeInternet"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.MinWidth">
+        </activity>
+        <activity
+            android:name=".TelaPesquisarOnibus"
+            android:label="@string/title_activity_tela_pesquisar_onibus"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TelaExibirResultados"
+            android:label="@string/title_activity_tela_exibir_resultados"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".NotificacaoCampoVazio"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.MinWidth">
+        </activity>
+        <activity
+            android:name=".TelaPesquisarHorario"
+            android:label="@string/title_activity_tela_pesquisar_horario"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TelaPesquisarItinerario"
+            android:label="@string/title_activity_tela_pesquisar_itinerario"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TelaMapaPontosOnibus"
+            android:label="@string/title_activity_tela_mapa_pontos_onibus"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TelaSobre"
+            android:label="@string/title_activity_tela_sobre"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TelaExibirRota"
+            android:label="@string/title_activity_tela_exibir_rota"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TelaListaPontosTuristicos"
+            android:label="@string/title_activity_tela_lista_pontos_turisticos"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TelaDescricaoPontosTuristicos"
+            android:label="@string/title_activity_tela_descricao_pontos_turisticos"
+            android:parentActivityName=".TelaListaPontosTuristicos"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.TelaListaPontosTuristicos" />
+        </activity>
+        <activity
+            android:name=".TelaExibirRotaAPe"
+            android:label="@string/title_activity_tela_exibir_rota_ape"
+            android:parentActivityName=".TelaDescricaoPontosTuristicos"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cefet.gpsbus.TelaDescricaoPontosTuristicos" />
+        </activity>
+    </application>
+
+</manifest>
